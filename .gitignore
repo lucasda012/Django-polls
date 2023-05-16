@@ -1,2 +1,6 @@
+#gitignore
 venv/
 */__pycache__
+
+#git config --global user.name "Seu Nome e Sobrenome"
+#git config --global user.email seu-email-do-github@exemplo.com.br
